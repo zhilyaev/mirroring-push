@@ -1,2 +1,2 @@
 FROM alpine/git
-COPY mirror.sh .
+COPY mirror.sh /mirror.sh
